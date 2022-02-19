@@ -1,0 +1,5 @@
+/*
+
+https://javascript.info/var
+
+*/
