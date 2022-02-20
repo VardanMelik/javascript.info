@@ -1,2 +1,0 @@
-# javascript.info
-javascript.info

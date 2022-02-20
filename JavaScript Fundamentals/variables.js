@@ -9,8 +9,9 @@
 //expect things to work:
 
 // Example 1
-/*var message = "Hi";
+/*var message = "Hello";
 alert(message);*/
+
 
 
 // Example 2
@@ -26,23 +27,26 @@ alert(test);*/
 }
 alert(test); // Uncaught ReferenceError: test is not defined*/
 
+
 // Example 4
 // The same is for loop
-/*for (var i = 0; i < 10; i++) {
+/*or (var i = 0; i < 10; i++) {
     var one  = 1;
     // ...
 }
 
 alert(i);   // i or 10 is a global variable after loop
-alert(one); // one or 1 is a global variable after loop
-*/
+alert(one); // one or 1 is a global variable after loop*/
+
 
 // Example 5
 // If a code block is inside a function, then var is a function-level variable
 /*function sayHi() {
+
     if(true) {
         var phrase = "Hello";
     }
+
     alert(phrase); // works
 }
 
@@ -51,8 +55,10 @@ alert(phrase); // Uncaught ReferenceError: phrase is not defined*/
 
 // Example 6
 // var declaration
-/*let user;
-let user; // Uncaught SyntaxError: Identifier 'user' has already been <declared></declare*/
+/*let user = "Vardan";
+let user = "Daniel";
+
+alert(user); // Uncaught SyntaxError: Identifier 'user' has already been <declared></declare*/
 
 /*var user = "Gagik"; // this var does nothing (already declared)
 var user = "Vanik"; // But we haven'y any error
@@ -77,16 +83,18 @@ printHello();*/
 }
 printHello();*/
 
-/*
-function printHello() {
+
+
+/*function printHello() {
+    let phrase = "Test";
     alert(phrase);
-    var phrase = "Hello";
+    phrase = "Hello";
 }
 
 printHello();*/
 
-/*
-function printHello() {
+
+/*function printHello() {
     var phrase; // declaration
 
     alert(phrase); // undefined
@@ -118,18 +126,20 @@ printHello();*/
 // Example 10
 /*function callMe() {
     // Uncaught SyntaxError: Unexpected token ')'
+    alert("Test");
 }();*/
+
 
 
 // Example 11
 // How to create Function Expration IIFE
 /*(function() {
     alert("Parentheses  around the function");
-})();
+}) ()
 
 (function() {
     alert("Parentheses  around the whole thing");
-}());
+} () )
 
 !function() {
     alert("Bitwise NOT operator starts the expression");
@@ -154,11 +164,12 @@ var name = 15;
 alert(name);*/
 
 //Example 14
-// Bloxk Scope
+// Block Scope
 /*{
     let number = 15;
 }
-alert(number); //variables.js:161 Uncaught ReferenceError: number is not <defined></defined>*/
+alert(number); */
+//variables.js:161 Uncaught ReferenceError: number is not <defined></defined>*/
 
 // Example 15
 /*{
