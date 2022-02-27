@@ -1,0 +1,5 @@
+- Open source environment
+- JS framework 
+- Developed on Chromes V8 js engine
+- Compiles JS directly into the native machine code
+- Used for creating server-side web applications

@@ -1,0 +1,7 @@
+It is a built-in module that helps in splitting up the web address into a readable format
+
+var url = require('url');
+
+var adrs = 'sdfklsjhfdkjsd';
+
+var q = url.parse(adr, true);

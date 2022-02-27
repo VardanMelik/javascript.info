@@ -1,0 +1,2 @@
+ESLint
+ESLint is an open source project initially developed by Nicholas C. Zakas in 2013

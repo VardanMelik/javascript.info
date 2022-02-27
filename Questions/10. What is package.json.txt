@@ -1,0 +1,2 @@
+- The package.json file in Node.js is the heart of the entire application.
+- It is basically the manifest file that contains the metadata of the project where we define the properties of a package.

@@ -1,0 +1,7 @@
+Libuv is a multi-platform support library of Node.js which majorly is used for asynchronous I/O
+
+- Full featured event-loop backed
+- File system events
+- Asynchronous file & files system operations
+- Asynchronous TCP & UDP sockets
+- Child process

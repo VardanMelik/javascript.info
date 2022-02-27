@@ -1,0 +1,5 @@
+- Middleware is a function receives the Request and Responses objects
+
+- Finish the resuqet-response cycle
+
+- next()

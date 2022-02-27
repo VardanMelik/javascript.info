@@ -1,0 +1,4 @@
+- An event loop in Node.js handles all the asynchronous callbacks in an application.
+- This approach mainly follows the publish-subscribe pattern
+
+EventEmitters -> Events - Event Loop - Event Handlers

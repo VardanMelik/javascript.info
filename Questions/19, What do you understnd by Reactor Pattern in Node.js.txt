@@ -1,0 +1,2 @@
+- Reactor Pattern in Node.js is basically a concept of non-blocking I/O operations
+- This pattern provides a handler that is associated with each I/O operation

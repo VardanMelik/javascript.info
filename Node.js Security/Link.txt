@@ -1,0 +1,11 @@
+https://www.youtube.com/results?search_query=node+js+security
+
+https://www.youtube.com/watch?v=QaI7abh4n-8
+https://www.youtube.com/watch?v=eWEgUcHPle0
+
+https://www.youtube.com/c/PwnFunction/videos
+
+
+https://cheatsheetseries.owasp.org/cheatsheets/Nodejs_Security_Cheat_Sheet.html
+
+https://eslint.org/

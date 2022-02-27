@@ -1,0 +1,5 @@
+- Asynchronous: Using we can make asynchronous HTTP requests that do not wait for the server to respond.
+  These functions continue to respond th the request for which it has already received the server response.
+ 
+- Non-Blocking fucntions are used in regards with I/O operations.
+  They immediately respond with whatever data is available and keeps on running as per the requets.

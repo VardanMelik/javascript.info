@@ -1,0 +1,2 @@
+- Event-driven programming is a programming approach that heavily makes use of eevents for triggering varous functions.
+- This approach mainly follows the publish-subscribe pattern.

@@ -1,0 +1,2 @@
+A module in Node.js used to encapsulate all the related codes into a single unit of code which can be interpareted shifing all related functions into a 
+single file. 

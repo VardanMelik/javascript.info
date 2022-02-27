@@ -1,0 +1,8 @@
+- Open Soruce 
+- Simple Fast
+- Asynchronous
+- High Scalability
+- Signle Threaded
+- No Buffering
+- Cross Platform
+- V8 engine

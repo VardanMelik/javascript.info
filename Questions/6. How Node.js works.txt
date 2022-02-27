@@ -1,0 +1,3 @@
+- Node.js is a virtiual machine that uses JavaScript as its scripting language and runs on a V8 enviroment.
+- It works on a single-threaded event loop and a non-blocking i/o which provides high rate as it can handle a higher number of concurrent requests.
+- By making use of the 'HTTP' module, Node.js can run on any stand-alone web server.

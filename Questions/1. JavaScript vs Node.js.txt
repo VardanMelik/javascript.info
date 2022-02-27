@@ -1,0 +1,8 @@
+1. - JS is a programming Language
+   - Node.js is a interpreter & enviroment for JavaScript
+
+2. - JS used for any client-side activity for a web application
+   - Node js used for accessing or performing any non-blocking operation of any operating system
+ 
+3. - JS running in Firefox, V8 engine, Safari
+   - Node.js V8 (Google Chrome)

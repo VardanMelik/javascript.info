@@ -1,0 +1,2 @@
+1. Asynchronous, non-blocking functions
+2. Synchronous, blocking functions

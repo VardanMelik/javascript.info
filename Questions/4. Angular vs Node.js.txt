@@ -1,0 +1,17 @@
+1. Angular - Open source web application development framework
+   Node.js - Cross platform run time environment for applications
+
+2 Angular - writter in TypeScript
+  Node.js - Written in C, C++ and JavaScript languages
+
+3. Angular itself is a web application framework
+   Node.js has many different frameworks like Sails.js, Partial.js and Express.js
+
+4. Angular Ideal for creating hightly active and interactive web apps
+   Node.js Ideal for developing small size projects
+
+5. Angular - Helpful in splitting an app into MVC components
+   Node.js - Helpful in generating database queries
+
+6. Angular - Suitable for developing real-time applications
+   Node.js - Suitable in situations where something faster and more scalable is required
