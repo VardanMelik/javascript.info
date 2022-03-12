@@ -1,0 +1,11 @@
+Import:
+- BSON -> mongorestore --uri "<Atlas Cluster URI>"
+                       --drop dump
+
+- JSON -> mongoimport --uri "<Atlas Cluster URI>"
+                      --drop=<filename>.json
+
+
+
+- mongoimport/mongoexport
+- mongorestore/mongodump
