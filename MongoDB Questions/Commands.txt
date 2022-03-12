@@ -1,0 +1,7 @@
+- show dbs
+- use sample_training
+- show collections
+- db.zips.find( {"state": "NY"} )
+- To see other pages/data type -> it
+- db.<collection>.find(<query>).count()
+- db.<collection>.find(<query>).pretty()
